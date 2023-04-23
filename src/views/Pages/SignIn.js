@@ -197,15 +197,14 @@ function SignIn() {
             display='flex'
             flexDirection='column'
             justifyContent='center'
-            alignItems='center'
-            position='absolute'>
+            alignItems='center'>
             <Text
               textAlign='center'
               color='white'
               letterSpacing='8px'
               fontSize='20px'
               fontWeight='500'>
-              INSPIRED BY THE FUTURE:
+              RED DIRT MINING
             </Text>
             <Text
               textAlign='center'
@@ -215,7 +214,7 @@ function SignIn() {
               fontWeight='bold'
               bgClip='text !important'
               bg='linear-gradient(94.56deg, #FFFFFF 79.99%, #21242F 102.65%)'>
-              THE VISION UI DASHBOARD
+              INVESTOR DASHBOARD
             </Text>
           </Box>
         </Box>
