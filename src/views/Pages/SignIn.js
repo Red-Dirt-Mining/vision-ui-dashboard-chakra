@@ -156,7 +156,7 @@ function SignIn() {
               SIGN IN
             </Button>
 
-            <Flex
+            {/* <Flex
               flexDirection='column'
               justifyContent='center'
               alignItems='center'
@@ -168,7 +168,7 @@ function SignIn() {
                   Sign Up
                 </Link>
               </Text>
-            </Flex>
+            </Flex> */}
           </Flex>
         </Flex>
         <Box
@@ -176,7 +176,6 @@ function SignIn() {
           mx={{ base: "auto", lg: "unset" }}
           ms={{ base: "auto", lg: "auto" }}
           mb='80px'>
-          <AuthFooter />
         </Box>
         <Box
           display={{ base: "none", lg: "block" }}
